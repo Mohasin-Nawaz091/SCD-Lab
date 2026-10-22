@@ -1,0 +1,5 @@
+LIGHT|L1|Living Room Light|0|20
+LIGHT|L2|Bedroom Light|0|100
+THERMOSTAT|T1|Main Thermostat|17.0
+LOCK|D1|Front Door|0|Ali
+LIGHT|L3|light|0|100

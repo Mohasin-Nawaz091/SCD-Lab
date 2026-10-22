@@ -1,0 +1,17 @@
+
+debug: true
+min_gpa: 3.5
+
+students:
+  - name: Ali Khan
+    age: 22
+    gpa: 3.75
+
+  - name: Sara Ahmed
+    age: 21
+    gpa: 3.90
+
+  - name: John Doe
+    age: 23
+    gpa: 3.60
+    
